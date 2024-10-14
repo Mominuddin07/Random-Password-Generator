@@ -1,4 +1,4 @@
-# Random Password Generator [Live Demo](https://mominuddin07.github.io/password-generator)
+# Random Password Generator [Live Demo](https://mominuddin07.github.io/Random-Password-Generator)
 
 A **simple and secure random password generator** that creates strong passwords for enhanced security. The app allows users to generate a password with specified length and characters, and copy it directly to the clipboard.
 
