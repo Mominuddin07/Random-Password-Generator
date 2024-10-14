@@ -4,7 +4,7 @@ A **simple and secure random password generator** that creates strong passwords 
 
 ## Features
 
-- Generate strong **random passwords** with a customizable length.
+- Generate strong **random passwords**.
 - Option to include/exclude **numbers**, **symbols**, **uppercase**, and **lowercase** letters.
 - Simple **Copy to Clipboard** feature for easy password management.
 - **Fully responsive design** that works across all devices.
